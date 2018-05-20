@@ -1,0 +1,23 @@
+{
+  "name": "krand",
+  "version": "1.0.0",
+  "description": "random generator based on PoC from Dan Kaminsky in PoC || GTFO",
+  "main": "rand.js",
+  "scripts": {
+    "test": "node randrun.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjbianco/krand.git"
+  },
+  "keywords": [
+    "random",
+    "poc"
+  ],
+  "author": "Guy Bianco IV <gjbiancoiv@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/gjbianco/krand/issues"
+  },
+  "homepage": "https://github.com/gjbianco/krand#readme"
+}
